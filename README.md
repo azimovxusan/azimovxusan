@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azimovxusan
 - 👀 I’m interested in gaming, self-development, coding
-- 🌱 I’m currently learning c++, flutter
+- 🌱 I’m currently learning c++
 - 📫 How to reach me on azimovxusanjon27@gmail.com
 
 <!---
